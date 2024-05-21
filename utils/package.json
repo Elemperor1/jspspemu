@@ -10,7 +10,7 @@
 		"mime": "1.4.1",
 		"node-watch": "0.3.x",
 		"node-dir": "0.1.x",
-		"underscore": "1.6.x",
+		"underscore": "1.13.x",
 		"websocket": "1.0.8",
 		"wrench": "1.5.x"
 	},
